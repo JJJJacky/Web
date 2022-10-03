@@ -16,6 +16,6 @@
 
 ## 作業連結區
 > * [Static website(week 2)](https://jjjjacky.github.io/Web/mypage/)
-
+> * [Create Github Repo & Github Pages Tutorial(Week 3)](https://youtu.be/ikXzM020JTs)
 
 ## 專題連結區
