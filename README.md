@@ -15,7 +15,7 @@
 
 
 ## 作業連結區
-> * [static website] (https://jjjjacky.github.io/Web/mypage/)
+> * [Static website(week 2)](https://jjjjacky.github.io/Web/mypage/)
 
 
 ## 專題連結區
